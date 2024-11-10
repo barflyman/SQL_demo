@@ -1,3 +1,3 @@
 # SQL Demo
 
-Testing SQL statements by analyzing debt data
+Some smaller SQL demos
