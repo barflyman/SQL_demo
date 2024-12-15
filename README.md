@@ -1,3 +1,9 @@
-# SQL Demo
+# SQL demo projects
 
-Some smaller SQL demos
+Simple SQL demo projects for various cases
+
+e.g.
+
+- Performance analytics: Loan Insights
+- Ranking: Exploring Trends in American Baby Names
+- Analytics via multiple joins: Organizing Medical Transcriptions with the OpenAI API
